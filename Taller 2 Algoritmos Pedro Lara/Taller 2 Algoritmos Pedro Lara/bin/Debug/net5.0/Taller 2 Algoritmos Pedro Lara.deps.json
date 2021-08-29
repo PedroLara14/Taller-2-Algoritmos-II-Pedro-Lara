@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Taller 2 Algoritmos Pedro Lara/1.0.0": {
+        "runtime": {
+          "Taller 2 Algoritmos Pedro Lara.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taller 2 Algoritmos Pedro Lara/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
